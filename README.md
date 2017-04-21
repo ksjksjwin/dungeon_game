@@ -6,4 +6,4 @@ User's goal is trying to escape this maze without face into monster's position
 At the end of the game, it will check for win/loss then
 user can select whether he/she want to continue to play or not
 
-![alt tag](http://imgur.com/yigwyPz)
+![alt tag](http://i.imgur.com/yigwyPz.png)
