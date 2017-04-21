@@ -7,4 +7,5 @@ At the end of the game, it will check for win/loss then
 user can select whether he/she want to continue to play or not
 
 ![alt tag](http://i.imgur.com/yigwyPz.png)
-[Imgur](http://i.imgur.com/ZHgd6fJ.png)
+![alt tag](http://i.imgur.com/ZHgd6fJ.png)
+![alt tag](http://i.imgur.com/pnAfWet.png)
